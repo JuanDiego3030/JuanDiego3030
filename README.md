@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=JuanDiego3030&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-# 💫 Sobre mí:
+# Sobre mí:
 
 Ing. **Juan Diego Arana Pérez** — Ingeniero de Sistemas | Desarrollador Python & Backend | IA & Integraciones
 
